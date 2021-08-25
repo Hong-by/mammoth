@@ -25,13 +25,13 @@ fullpage 3.x 버전 이상은 라이센스가 필요한 버전이기 때문에 �
 ## Function
 
 1. head Tag
-  - Title Typing Effect
+    - Title Typing Effect
 2. Navigation
-  - Mega Box Menu Show and Hide When Hovering Navigation
-  - Sub Mega Box Menu Hide and Show
-  - Mobile Menu Animation Effect
-  - Mobile Menu Click Effect
-  - Mobile Menu Accordion Effect
+    - Mega Box Menu Show and Hide When Hovering Navigation
+    - Sub Mega Box Menu Hide and Show
+    - Mobile Menu Animation Effect
+    - Mobile Menu Click Effect
+    - Mobile Menu Accordion Effect
 3. fullpage
-  - animation
-  - Slide Functions
+    - animation
+    - Slide Functions
